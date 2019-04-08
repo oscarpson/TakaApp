@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Taka</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_collect">CollectActivity</string>
+    <string name="specificbuilding">Specific Block</string>
+    <string name="specificroom">Room</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_expandable">Expandable</string>
+    <string name="title_activity_expandable_firebase">ExpandableFirebase</string>
+    <string name="title_activity_add_rooms">AddRooms</string>
+    <string name="title_activity_add_plot_room">AddPlotRoom</string>
+</resources>

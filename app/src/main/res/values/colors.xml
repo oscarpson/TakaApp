@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#F06917</color>
+    <color name="componentsColor">#F06917</color>
+    <color name="hintColor">#F06917 </color>
+    <color name="blueColor">#269BF6</color>
+    <color name="gray">#898298</color>
+    <color name="whiteColor">#ffffff</color>
+    <color name="blacksb">#130202</color>
+    <color name="blackColor">#000000</color>
+    <color name="grayColor">#BEBEBF</color>
+    <color name="gold">#ff850a</color>
+    <color name="browntint">#8943</color>
+    <color name="purple">#BD3792</color>
+    <color name="red">#E5080B</color>
+    <color name="green">#80B547</color>
+    <color name="orange">#F0AB4E</color>
+    <color name="yellow">#FACA20</color>
+    <!-- Screens background color-->
+    <color name="back1">#898298</color>
+    <color name="bg_scr1">#898298</color>
+    <color name="bg_scr2">#00bcd4</color>
+    <color name="bg_scr3">#c873f4</color>
+    <color name="bg_scr4">#009688</color>
+    <color name="bg_scr5">#00bcd4</color>
+    <color name="bg_scr6">#c873f4</color>
+    <color name="bg_scr7">#009688</color>
+    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_scr1">#c2185b</color>
+    <color name="dot_dark_scr2">#0097a7</color>
+    <color name="dot_dark_scr3">#a854d4</color>
+    <color name="dot_dark_scr4">#00796b</color>
+    <color name="dot_dark_scr5">#c2185b</color>
+    <color name="dot_dark_scr6">#0097a7</color>
+    <color name="dot_dark_scr7">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_scr1">#f8bbd0</color>
+    <color name="dot_light_scr2">#b2ebf2</color>
+    <color name="dot_light_scr3">#e4b5fc</color>
+    <color name="dot_light_scr4">#b2dfdb</color>
+    <color name="dot_light_scr5">#f8bbd0</color>
+    <color name="dot_light_scr6">#b2ebf2</color>
+    <color name="dot_light_scr7">#e4b5fc</color>
+
+    <array name="array_for_active_dot">
+        <item>@color/dot_light_scr1</item>
+        <item>@color/dot_light_scr2</item>
+        <item>@color/dot_light_scr3</item>
+        <item>@color/dot_light_scr4</item>
+        <item>@color/dot_light_scr5</item>
+        <item>@color/dot_light_scr6</item>
+        <item>@color/dot_light_scr7</item>
+
+    </array>
+
+    <array name="array_for_inactive_dot">
+        <item>@color/dot_dark_scr1</item>
+        <item>@color/dot_dark_scr2</item>
+        <item>@color/dot_dark_scr3</item>
+        <item>@color/dot_dark_scr4</item>
+        <item>@color/dot_dark_scr5</item>
+        <item>@color/dot_dark_scr6</item>
+        <item>@color/dot_dark_scr7</item>
+    </array>
+</resources>
